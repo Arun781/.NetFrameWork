@@ -1,0 +1,6 @@
+E:\WorkForTat\DoSomeThing\PrivateAssembly\PrivateAssembly\obj\Debug\PrivateAssembly.csproj.AssemblyReference.cache
+E:\WorkForTat\DoSomeThing\PrivateAssembly\PrivateAssembly\obj\Debug\PrivateAssembly.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DoSomeThing\PrivateAssembly\PrivateAssembly\bin\Debug\PrivateAssembly.dll
+E:\WorkForTat\DoSomeThing\PrivateAssembly\PrivateAssembly\bin\Debug\PrivateAssembly.pdb
+E:\WorkForTat\DoSomeThing\PrivateAssembly\PrivateAssembly\obj\Debug\PrivateAssembly.dll
+E:\WorkForTat\DoSomeThing\PrivateAssembly\PrivateAssembly\obj\Debug\PrivateAssembly.pdb

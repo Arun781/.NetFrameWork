@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\Datetime\Datetime\bin\Debug\Datetime.exe.config
+E:\WorkForTat\DeveloperThings\Datetime\Datetime\bin\Debug\Datetime.exe
+E:\WorkForTat\DeveloperThings\Datetime\Datetime\bin\Debug\Datetime.pdb
+E:\WorkForTat\DeveloperThings\Datetime\Datetime\obj\Debug\Datetime.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\Datetime\Datetime\obj\Debug\Datetime.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\Datetime\Datetime\obj\Debug\Datetime.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\Datetime\Datetime\obj\Debug\Datetime.exe
+E:\WorkForTat\DeveloperThings\Datetime\Datetime\obj\Debug\Datetime.pdb

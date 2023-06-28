@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\FibonaciSeries\FibonaciSeries\bin\Debug\FibonaciSeries.exe.config
+E:\WorkForTat\DeveloperThings\FibonaciSeries\FibonaciSeries\bin\Debug\FibonaciSeries.exe
+E:\WorkForTat\DeveloperThings\FibonaciSeries\FibonaciSeries\bin\Debug\FibonaciSeries.pdb
+E:\WorkForTat\DeveloperThings\FibonaciSeries\FibonaciSeries\obj\Debug\FibonaciSeries.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\FibonaciSeries\FibonaciSeries\obj\Debug\FibonaciSeries.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\FibonaciSeries\FibonaciSeries\obj\Debug\FibonaciSeries.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\FibonaciSeries\FibonaciSeries\obj\Debug\FibonaciSeries.exe
+E:\WorkForTat\DeveloperThings\FibonaciSeries\FibonaciSeries\obj\Debug\FibonaciSeries.pdb

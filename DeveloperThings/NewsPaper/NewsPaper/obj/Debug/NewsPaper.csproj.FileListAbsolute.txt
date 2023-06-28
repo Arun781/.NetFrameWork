@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\NewsPaper\NewsPaper\bin\Debug\NewsPaper.exe.config
+E:\WorkForTat\DeveloperThings\NewsPaper\NewsPaper\bin\Debug\NewsPaper.exe
+E:\WorkForTat\DeveloperThings\NewsPaper\NewsPaper\bin\Debug\NewsPaper.pdb
+E:\WorkForTat\DeveloperThings\NewsPaper\NewsPaper\obj\Debug\NewsPaper.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\NewsPaper\NewsPaper\obj\Debug\NewsPaper.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\NewsPaper\NewsPaper\obj\Debug\NewsPaper.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\NewsPaper\NewsPaper\obj\Debug\NewsPaper.exe
+E:\WorkForTat\DeveloperThings\NewsPaper\NewsPaper\obj\Debug\NewsPaper.pdb

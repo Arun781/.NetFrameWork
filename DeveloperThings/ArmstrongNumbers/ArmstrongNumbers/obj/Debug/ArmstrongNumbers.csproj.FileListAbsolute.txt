@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe.config
+E:\WorkForTat\DeveloperThings\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.exe
+E:\WorkForTat\DeveloperThings\ArmstrongNumbers\ArmstrongNumbers\bin\Debug\ArmstrongNumbers.pdb
+E:\WorkForTat\DeveloperThings\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.exe
+E:\WorkForTat\DeveloperThings\ArmstrongNumbers\ArmstrongNumbers\obj\Debug\ArmstrongNumbers.pdb

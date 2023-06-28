@@ -1,0 +1,15 @@
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\bin\Debug\net7.0\Apstech.exe
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\bin\Debug\net7.0\Apstech.deps.json
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\bin\Debug\net7.0\Apstech.runtimeconfig.json
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\bin\Debug\net7.0\Apstech.dll
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\bin\Debug\net7.0\Apstech.pdb
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\Apstech.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\Apstech.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\Apstech.AssemblyInfoInputs.cache
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\Apstech.AssemblyInfo.cs
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\Apstech.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\Apstech.dll
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\refint\Apstech.dll
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\Apstech.pdb
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\Apstech.genruntimeconfig.cache
+E:\WorkForTat\DeveloperThings\Apstech\Apstech\obj\Debug\net7.0\ref\Apstech.dll

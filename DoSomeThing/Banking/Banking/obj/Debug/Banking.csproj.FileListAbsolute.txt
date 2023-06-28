@@ -1,0 +1,6 @@
+E:\WorkForTat\DoSomeThing\Banking\Banking\bin\Debug\Banking.dll
+E:\WorkForTat\DoSomeThing\Banking\Banking\bin\Debug\Banking.pdb
+E:\WorkForTat\DoSomeThing\Banking\Banking\obj\Debug\Banking.csproj.AssemblyReference.cache
+E:\WorkForTat\DoSomeThing\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DoSomeThing\Banking\Banking\obj\Debug\Banking.dll
+E:\WorkForTat\DoSomeThing\Banking\Banking\obj\Debug\Banking.pdb

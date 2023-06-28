@@ -1,0 +1,8 @@
+E:\WorkForTat\ReadOrCreatFiles\CreatOrReadFile\CreatOrReadFile\bin\Debug\CreatOrReadFile.exe.config
+E:\WorkForTat\ReadOrCreatFiles\CreatOrReadFile\CreatOrReadFile\bin\Debug\CreatOrReadFile.exe
+E:\WorkForTat\ReadOrCreatFiles\CreatOrReadFile\CreatOrReadFile\bin\Debug\CreatOrReadFile.pdb
+E:\WorkForTat\ReadOrCreatFiles\CreatOrReadFile\CreatOrReadFile\obj\Debug\CreatOrReadFile.csproj.AssemblyReference.cache
+E:\WorkForTat\ReadOrCreatFiles\CreatOrReadFile\CreatOrReadFile\obj\Debug\CreatOrReadFile.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\ReadOrCreatFiles\CreatOrReadFile\CreatOrReadFile\obj\Debug\CreatOrReadFile.csproj.CoreCompileInputs.cache
+E:\WorkForTat\ReadOrCreatFiles\CreatOrReadFile\CreatOrReadFile\obj\Debug\CreatOrReadFile.exe
+E:\WorkForTat\ReadOrCreatFiles\CreatOrReadFile\CreatOrReadFile\obj\Debug\CreatOrReadFile.pdb

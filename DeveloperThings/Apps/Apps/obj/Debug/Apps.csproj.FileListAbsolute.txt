@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\Apps\Apps\bin\Debug\Apps.exe.config
+E:\WorkForTat\DeveloperThings\Apps\Apps\bin\Debug\Apps.exe
+E:\WorkForTat\DeveloperThings\Apps\Apps\bin\Debug\Apps.pdb
+E:\WorkForTat\DeveloperThings\Apps\Apps\obj\Debug\Apps.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\Apps\Apps\obj\Debug\Apps.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\Apps\Apps\obj\Debug\Apps.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\Apps\Apps\obj\Debug\Apps.exe
+E:\WorkForTat\DeveloperThings\Apps\Apps\obj\Debug\Apps.pdb

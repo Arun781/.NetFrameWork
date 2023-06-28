@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\DataTableExtensions\DataTableExtensions\obj\Debug\DataTableExtensions.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\DataTableExtensions\DataTableExtensions\obj\Debug\DataTableExtensions.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\DataTableExtensions\DataTableExtensions\obj\Debug\DataTableExtensions.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\DataTableExtensions\DataTableExtensions\bin\Debug\DataTableExtensions.exe.config
+E:\WorkForTat\DeveloperThings\DataTableExtensions\DataTableExtensions\bin\Debug\DataTableExtensions.exe
+E:\WorkForTat\DeveloperThings\DataTableExtensions\DataTableExtensions\bin\Debug\DataTableExtensions.pdb
+E:\WorkForTat\DeveloperThings\DataTableExtensions\DataTableExtensions\obj\Debug\DataTableExtensions.exe
+E:\WorkForTat\DeveloperThings\DataTableExtensions\DataTableExtensions\obj\Debug\DataTableExtensions.pdb

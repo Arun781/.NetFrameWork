@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\Variables\Variables\bin\Debug\Variables.exe.config
+E:\WorkForTat\DeveloperThings\Variables\Variables\bin\Debug\Variables.exe
+E:\WorkForTat\DeveloperThings\Variables\Variables\bin\Debug\Variables.pdb
+E:\WorkForTat\DeveloperThings\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\Variables\Variables\obj\Debug\Variables.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\Variables\Variables\obj\Debug\Variables.exe
+E:\WorkForTat\DeveloperThings\Variables\Variables\obj\Debug\Variables.pdb

@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+E:\WorkForTat\DeveloperThings\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+E:\WorkForTat\DeveloperThings\EvenOrOdd\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+E:\WorkForTat\DeveloperThings\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+E:\WorkForTat\DeveloperThings\EvenOrOdd\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

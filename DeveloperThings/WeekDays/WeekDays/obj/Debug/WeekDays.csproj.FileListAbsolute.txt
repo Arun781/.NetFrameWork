@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\WeekDays\WeekDays\bin\Debug\WeekDays.exe.config
+E:\WorkForTat\DeveloperThings\WeekDays\WeekDays\bin\Debug\WeekDays.exe
+E:\WorkForTat\DeveloperThings\WeekDays\WeekDays\bin\Debug\WeekDays.pdb
+E:\WorkForTat\DeveloperThings\WeekDays\WeekDays\obj\Debug\WeekDays.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\WeekDays\WeekDays\obj\Debug\WeekDays.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\WeekDays\WeekDays\obj\Debug\WeekDays.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\WeekDays\WeekDays\obj\Debug\WeekDays.exe
+E:\WorkForTat\DeveloperThings\WeekDays\WeekDays\obj\Debug\WeekDays.pdb

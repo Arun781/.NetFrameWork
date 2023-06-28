@@ -1,0 +1,8 @@
+E:\WorkForTat\Connections\First\First\bin\Debug\First.exe.config
+E:\WorkForTat\Connections\First\First\bin\Debug\First.exe
+E:\WorkForTat\Connections\First\First\bin\Debug\First.pdb
+E:\WorkForTat\Connections\First\First\obj\Debug\First.csproj.AssemblyReference.cache
+E:\WorkForTat\Connections\First\First\obj\Debug\First.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\Connections\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+E:\WorkForTat\Connections\First\First\obj\Debug\First.exe
+E:\WorkForTat\Connections\First\First\obj\Debug\First.pdb

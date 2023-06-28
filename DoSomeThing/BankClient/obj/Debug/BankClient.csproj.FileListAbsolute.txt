@@ -1,0 +1,11 @@
+E:\WorkForTat\DoSomeThing\BankClient\bin\Debug\BankClient.exe.config
+E:\WorkForTat\DoSomeThing\BankClient\bin\Debug\BankClient.exe
+E:\WorkForTat\DoSomeThing\BankClient\bin\Debug\BankClient.pdb
+E:\WorkForTat\DoSomeThing\BankClient\bin\Debug\Banking.dll
+E:\WorkForTat\DoSomeThing\BankClient\bin\Debug\Banking.pdb
+E:\WorkForTat\DoSomeThing\BankClient\obj\Debug\BankClient.csproj.AssemblyReference.cache
+E:\WorkForTat\DoSomeThing\BankClient\obj\Debug\BankClient.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DoSomeThing\BankClient\obj\Debug\BankClient.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DoSomeThing\BankClient\obj\Debug\BankClient.csproj.CopyComplete
+E:\WorkForTat\DoSomeThing\BankClient\obj\Debug\BankClient.exe
+E:\WorkForTat\DoSomeThing\BankClient\obj\Debug\BankClient.pdb

@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: First, Configuration: Debug Any CPU ------
+1>  First -> E:\WorkForTat\Connections\First\First\bin\Debug\First.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 8:04 AM and took 00.368 seconds ==========

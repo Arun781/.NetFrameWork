@@ -1,0 +1,8 @@
+E:\WorkForTat\DoSomeThing\WorkOnThreads\WorkOnThreads\bin\Debug\WorkOnThreads.exe.config
+E:\WorkForTat\DoSomeThing\WorkOnThreads\WorkOnThreads\bin\Debug\WorkOnThreads.exe
+E:\WorkForTat\DoSomeThing\WorkOnThreads\WorkOnThreads\bin\Debug\WorkOnThreads.pdb
+E:\WorkForTat\DoSomeThing\WorkOnThreads\WorkOnThreads\obj\Debug\WorkOnThreads.csproj.AssemblyReference.cache
+E:\WorkForTat\DoSomeThing\WorkOnThreads\WorkOnThreads\obj\Debug\WorkOnThreads.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DoSomeThing\WorkOnThreads\WorkOnThreads\obj\Debug\WorkOnThreads.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DoSomeThing\WorkOnThreads\WorkOnThreads\obj\Debug\WorkOnThreads.exe
+E:\WorkForTat\DoSomeThing\WorkOnThreads\WorkOnThreads\obj\Debug\WorkOnThreads.pdb

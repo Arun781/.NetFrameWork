@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\Tech1\Tech1\bin\Debug\Tech1.exe.config
+E:\WorkForTat\DeveloperThings\Tech1\Tech1\bin\Debug\Tech1.exe
+E:\WorkForTat\DeveloperThings\Tech1\Tech1\bin\Debug\Tech1.pdb
+E:\WorkForTat\DeveloperThings\Tech1\Tech1\obj\Debug\Tech1.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\Tech1\Tech1\obj\Debug\Tech1.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\Tech1\Tech1\obj\Debug\Tech1.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\Tech1\Tech1\obj\Debug\Tech1.exe
+E:\WorkForTat\DeveloperThings\Tech1\Tech1\obj\Debug\Tech1.pdb

@@ -1,0 +1,8 @@
+E:\WorkForTat\DeveloperThings\Strings\Strings\bin\Debug\Strings.exe.config
+E:\WorkForTat\DeveloperThings\Strings\Strings\bin\Debug\Strings.exe
+E:\WorkForTat\DeveloperThings\Strings\Strings\bin\Debug\Strings.pdb
+E:\WorkForTat\DeveloperThings\Strings\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+E:\WorkForTat\DeveloperThings\Strings\Strings\obj\Debug\Strings.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\DeveloperThings\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+E:\WorkForTat\DeveloperThings\Strings\Strings\obj\Debug\Strings.exe
+E:\WorkForTat\DeveloperThings\Strings\Strings\obj\Debug\Strings.pdb
