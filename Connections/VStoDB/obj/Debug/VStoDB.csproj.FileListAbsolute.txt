@@ -1,0 +1,15 @@
+E:\WorkForTat\Connections\VStoDB\bin\Debug\VStoDB.exe.config
+E:\WorkForTat\Connections\VStoDB\bin\Debug\VStoDB.exe
+E:\WorkForTat\Connections\VStoDB\bin\Debug\VStoDB.pdb
+E:\WorkForTat\Connections\VStoDB\bin\Debug\EntityFramework.dll
+E:\WorkForTat\Connections\VStoDB\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkForTat\Connections\VStoDB\bin\Debug\EntityFramework.xml
+E:\WorkForTat\Connections\VStoDB\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkForTat\Connections\VStoDB\obj\Debug\VStoDB.csproj.AssemblyReference.cache
+E:\WorkForTat\Connections\VStoDB\obj\Debug\VStoDB.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\Connections\VStoDB\obj\Debug\VStoDB.csproj.CoreCompileInputs.cache
+E:\WorkForTat\Connections\VStoDB\obj\Debug\VStoDB.csproj.CopyComplete
+E:\WorkForTat\Connections\VStoDB\obj\Debug\VStoDB.exe
+E:\WorkForTat\Connections\VStoDB\obj\Debug\VStoDB.pdb
+E:\WorkForTat\Connections\VStoDB\obj\Debug\VStoDB.Migrations.First.resources
+E:\WorkForTat\Connections\VStoDB\obj\Debug\VStoDB.csproj.GenerateResource.cache

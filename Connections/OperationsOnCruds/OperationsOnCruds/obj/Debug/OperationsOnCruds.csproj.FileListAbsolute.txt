@@ -1,0 +1,13 @@
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\bin\Debug\OperationsOnCruds.exe.config
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\bin\Debug\OperationsOnCruds.exe
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\bin\Debug\OperationsOnCruds.pdb
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\bin\Debug\EntityFramework.dll
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\bin\Debug\EntityFramework.xml
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\obj\Debug\OperationsOnCruds.csproj.AssemblyReference.cache
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\obj\Debug\OperationsOnCruds.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\obj\Debug\OperationsOnCruds.csproj.CoreCompileInputs.cache
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\obj\Debug\OperationsOnCruds.csproj.CopyComplete
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\obj\Debug\OperationsOnCruds.exe
+E:\WorkForTat\Connections\OperationsOnCruds\OperationsOnCruds\obj\Debug\OperationsOnCruds.pdb

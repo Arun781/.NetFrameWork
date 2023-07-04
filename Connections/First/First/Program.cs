@@ -57,10 +57,12 @@ namespace First
             }
             //Fill will open connection, reads table , and saves all rows in dataset , in same same table format, closes connection
         }
+        
         static void Main(string[] args)
         {
             //Display();
             DisplayWithDataset();
+          
         }
     }
 }

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CompanyModelStoreContainer" CdmEntityContainer="CompanyEntities">
+    <EntitySetMapping Name="Employees">
+      <EntityTypeMapping TypeName="CompanyModel.Employee">
+        <MappingFragment StoreEntitySet="Employees">
+          <ScalarProperty Name="eId" ColumnName="eId" />
+          <ScalarProperty Name="eName" ColumnName="eName" />
+          <ScalarProperty Name="eAddress" ColumnName="eAddress" />
+          <ScalarProperty Name="eSalary" ColumnName="eSalary" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="prc_selectname" FunctionName="CompanyModel.Store.prc_selectname" />
+    <FunctionImportMapping FunctionImportName="prc_empselectall" FunctionName="CompanyModel.Store.prc_empselectall">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="CompanyModel.prc_empselectall_Result">
+          <ScalarProperty Name="eId" ColumnName="eId" />
+          <ScalarProperty Name="eName" ColumnName="eName" />
+          <ScalarProperty Name="eAddress" ColumnName="eAddress" />
+          <ScalarProperty Name="eSalary" ColumnName="eSalary" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

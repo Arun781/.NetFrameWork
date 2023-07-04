@@ -1,0 +1,13 @@
+E:\WorkForTat\Connections\CrudWork\bin\Debug\CrudWork.exe.config
+E:\WorkForTat\Connections\CrudWork\bin\Debug\CrudWork.exe
+E:\WorkForTat\Connections\CrudWork\bin\Debug\CrudWork.pdb
+E:\WorkForTat\Connections\CrudWork\bin\Debug\EntityFramework.dll
+E:\WorkForTat\Connections\CrudWork\bin\Debug\EntityFramework.SqlServer.dll
+E:\WorkForTat\Connections\CrudWork\bin\Debug\EntityFramework.xml
+E:\WorkForTat\Connections\CrudWork\bin\Debug\EntityFramework.SqlServer.xml
+E:\WorkForTat\Connections\CrudWork\obj\Debug\CrudWork.csproj.AssemblyReference.cache
+E:\WorkForTat\Connections\CrudWork\obj\Debug\CrudWork.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\Connections\CrudWork\obj\Debug\CrudWork.csproj.CoreCompileInputs.cache
+E:\WorkForTat\Connections\CrudWork\obj\Debug\CrudWork.csproj.CopyComplete
+E:\WorkForTat\Connections\CrudWork\obj\Debug\CrudWork.exe
+E:\WorkForTat\Connections\CrudWork\obj\Debug\CrudWork.pdb
