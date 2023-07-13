@@ -1,0 +1,8 @@
+E:\WorkForTat\.NetFrameWork\WebWorks\UpperLowerCases\bin\Debug\UpperLowerCases.exe.config
+E:\WorkForTat\.NetFrameWork\WebWorks\UpperLowerCases\bin\Debug\UpperLowerCases.exe
+E:\WorkForTat\.NetFrameWork\WebWorks\UpperLowerCases\bin\Debug\UpperLowerCases.pdb
+E:\WorkForTat\.NetFrameWork\WebWorks\UpperLowerCases\obj\Debug\UpperLowerCases.csproj.AssemblyReference.cache
+E:\WorkForTat\.NetFrameWork\WebWorks\UpperLowerCases\obj\Debug\UpperLowerCases.csproj.SuggestedBindingRedirects.cache
+E:\WorkForTat\.NetFrameWork\WebWorks\UpperLowerCases\obj\Debug\UpperLowerCases.csproj.CoreCompileInputs.cache
+E:\WorkForTat\.NetFrameWork\WebWorks\UpperLowerCases\obj\Debug\UpperLowerCases.exe
+E:\WorkForTat\.NetFrameWork\WebWorks\UpperLowerCases\obj\Debug\UpperLowerCases.pdb

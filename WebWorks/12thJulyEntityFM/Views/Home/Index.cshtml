@@ -1,0 +1,48 @@
+﻿@*<h2>Home Index Controller</h2>
+    <h3>@TempData["abc"].ToString()</h3>*@
+@{
+    ViewBag.Title = "Home Index";
+}
+<h2>Home Index Controller</h2>
+<!--<h3 style="color:green">@ViewBag.msg</h3>-->
+@*<h3>@TempData["abc"].ToString()</h3>*@
+<!--@using (Html.BeginForm("Insert", "Home", FormMethod.Post))
+{
+    <table border="1" style="color:blue;font-size:xx-large">
+
+        <tr><td>@Html.Label("enter id")</td><td>@Html.TextBox("id")</td></tr>
+        <tr><td>@Html.Label("enter Name")</td><td>@Html.TextBox("Name")</td></tr>
+        <tr><td>@Html.Label("enter Address")</td><td>@Html.TextBox("Addres")</td></tr>
+        <tr><td>@Html.Label("enter scores")</td><td>@Html.TextBox("Salary")</td></tr>
+        <tr></tr>
+        <tr><td></td><td><button>Save</button></td></tr>
+    </table>
+}-->
+@*<h2 style="color:blue">@ViewBag.Employees</h2>
+    @using (Html.BeginForm("Insert", "Home", FormMethod.Post))
+    {
+        <table border="1" style="color:blue;font-size:xx-large">
+
+            <tr><td>@Html.Label("enter id")</td><td>@Html.TextBox("id")</td></tr>
+            <tr><td>@Html.Label("enter Name")</td><td>@Html.TextBox("Name")</td></tr>
+            <tr><td>@Html.Label("enter Address")</td><td>@Html.TextBox("address")</td></tr>
+            <tr><td>@Html.Label("enter scores")</td><td>@Html.TextBox("Salary")</td></tr>
+            <tr></tr>
+            <tr><td></td><td><button>Save</button></td></tr>
+        </table>
+
+    }*@
+<h2 style="color:blue">@ViewBag.Employees</h2>
+@using (Html.BeginForm("Insert", "Home", FormMethod.Get))
+{
+    <table border="1" style="color:orangered;font-size:xx-large">
+
+        <tr><td>@Html.Label("enter id")</td><td>@Html.TextBox("id")</td></tr>
+        <tr><td>@Html.Label("enter Name")</td><td>@Html.TextBox("Name")</td></tr>
+        <tr><td>@Html.Label("enter Address")</td><td>@Html.TextBox("address")</td></tr>
+        <tr><td>@Html.Label("enter Salary")</td><td>@Html.TextBox("Salary")</td></tr>
+        <tr></tr>
+        <tr><td></td><td><button>Save</button></td></tr>
+    </table>
+
+}

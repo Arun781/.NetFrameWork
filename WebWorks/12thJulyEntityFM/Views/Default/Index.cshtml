@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Check", "default", FormMethod.Post))
+{<div>@Html.Label("Enter id")@Html.TextBox("Id")</div>
+<br />
+<div>@Html.Label("Enter Name")@Html.TextBox("eName")</div>
+<br />
+<div>@Html.Label("Enter Salary")@Html.TextBox("eSalary")</div>
+<br />
+<div><button>Click </button></div>
+<div>
+    @if (TempData["abc"] != null)
+    {
+        @TempData["abc"].ToString();
+        // to save to all tempdata objects
+        // TempData.Keep("abc");//save only abc object
+        TempData.Keep();
+    }
+</div>
+<!--we must call another controller and action from here a link -->
+<div>@Html.ActionLink("Home Page", "Index", "Home")</div>
+
+}
+
