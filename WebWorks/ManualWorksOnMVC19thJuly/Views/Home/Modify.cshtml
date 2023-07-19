@@ -1,0 +1,22 @@
+﻿@model ManualWorksOnMVC19thJuly.Models.Personal_Bank_Details
+@{
+    ViewBag.Title = "Modify";
+}
+
+<h2>Update Data</h2>
+
+<fieldset>
+    <legend>Update Selected Data</legend>
+    @using (Html.BeginForm())
+    {
+        <div>@Html.HiddenFor(a => a.pId)</div>
+        <div>@Html.DisplayNameFor(a => a.Customar_Name)@Html.EditorFor(a => a.Customar_Name)</div>
+        <div>@Html.DisplayNameFor(a => a.Customar_Father_Name)@Html.EditorFor(a => a.Customar_Father_Name)</div>
+        <div>@Html.DisplayNameFor(a => a.Customar_Acc)@Html.EditorFor(a => a.Customar_Acc)</div>
+        <div>@Html.DisplayNameFor(a => a.Customar_Village)@Html.EditorFor(a => a.Customar_Village)</div>
+        <div>@Html.DisplayNameFor(a => a.Customar_Addar_Num)@Html.EditorFor(a => a.Customar_Addar_Num)</div>
+        <div> <button>Update Data</button> </div>
+    }
+</fieldset>
+@Html.ActionLink("HomePage","Index")
+@Html.ActionLink("Want to Delete Data","Delete","Home")

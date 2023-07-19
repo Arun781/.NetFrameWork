@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WebApplicationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Movie_Detail">
+    <Key>
+      <PropertyRef Name="Slno" />
+    </Key>
+    <Property Name="Slno" Type="Int32" Nullable="false" />
+    <Property Name="Movie_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Hero_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Ticket_price" Type="Int32" />
+    <Property Name="Location_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="collections" Type="Int64" />
+  </EntityType>
+  <EntityContainer Name="WebApplicationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Movie_Detail" EntityType="Self.Movie_Detail" />
+  </EntityContainer>
+</Schema>

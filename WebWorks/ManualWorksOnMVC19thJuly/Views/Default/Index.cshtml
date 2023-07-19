@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm("Check","Default",FormMethod.Post))
+            {
+                <table>
+                    <tr>
+                        <td>@Html.Label("Enter ID")</td>
+                        <td>@Html.TextBox("pId")</td>
+                    </tr>
+                    <tr><td></td><td><button>Search</button></td></tr>
+                </table>
+            }

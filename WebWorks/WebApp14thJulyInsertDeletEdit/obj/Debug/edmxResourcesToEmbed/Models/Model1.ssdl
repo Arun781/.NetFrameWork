@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WebApplicationModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Movie_Detail">
+    <Key>
+      <PropertyRef Name="Slno" />
+    </Key>
+    <Property Name="Slno" Type="int" Nullable="false" />
+    <Property Name="Movie_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Hero_Name" Type="varchar" MaxLength="50" />
+    <Property Name="Ticket_price" Type="int" />
+    <Property Name="Location_Name" Type="varchar" MaxLength="50" />
+    <Property Name="collections" Type="bigint" />
+  </EntityType>
+  <EntityContainer Name="WebApplicationModelStoreContainer">
+    <EntitySet Name="Movie_Detail" EntityType="Self.Movie_Detail" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

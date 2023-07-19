@@ -1,0 +1,41 @@
+﻿@model List<ManualWorksOnMVC19thJuly.Models.Personal_Bank_Details>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Home Index</h2>
+
+@Html.ActionLink("Insert New Data", "Insert", FormMethod.Post, "Home")
+<br />
+<div style="background-color:aqua">
+    <table border="1">
+        <tr>
+            <th>P_Id</th>
+            <th>Customar_Name</th>
+            <th>Customar_Father_Name</th>
+            <th>Customar_Addar_Num</th>
+            <th>Customar_Village</th>
+            <th>Customar_Acc</th>
+            <th>Update</th>
+            <th>Delete</th>
+            <th>Details</th>
+        </tr>
+        @foreach(var a in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(s => a.pId)</td>
+                <td>@Html.DisplayFor(s => a.Customar_Name)</td>
+                <td>@Html.DisplayFor(s => a.Customar_Father_Name)</td>
+                <td>@Html.DisplayFor(s => a.Customar_Addar_Num)</td>
+                <td>@Html.DisplayFor(s => a.Customar_Village)</td>
+                <td>@Html.DisplayFor(s => a.Customar_Acc)</td>
+
+                <td>@Html.ActionLink("Update", "Modify", new { id = a.pId })</td>
+                <td>@Html.ActionLink("Delete", "Remove", new { id = a.pId })</td>
+                <td>@Html.ActionLink("Details", "Details", new { id = a.pId })</td>
+            </tr>
+        }
+    </table>
+</div>
+
+

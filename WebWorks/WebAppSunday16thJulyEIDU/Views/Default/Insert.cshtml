@@ -1,0 +1,36 @@
+﻿@model WebAppSunday16thJulyEIDU.Models.Employee
+@{
+    ViewBag.Title = "Insert";
+}
+
+<h2>Insert values into Database</h2>
+<fieldset style="color:blueviolet">
+    <legend>Add new Data</legend>
+
+    @using (Html.BeginForm("Insert", "Default", FormMethod.Post))
+    {
+        <table>
+            <tr>
+            <td>@Html.DisplayNameFor(x => Model.eId)</td>
+            <td>@Html.TextBoxFor(x => Model.eId)</td>
+            </tr>
+
+            <tr>
+            <td>@Html.DisplayNameFor(x => Model.eName)</td>
+            <td>@Html.TextBoxFor(x => Model.eName)</td>
+            </tr>
+
+            <tr>
+            <td>@Html.DisplayNameFor(x => Model.eSalary)</td>
+            <td>@Html.TextBoxFor(x => Model.eSalary)</td>
+            </tr>
+
+            <tr>
+            <td>@Html.DisplayNameFor(x => Model.eAddress)</td>
+            <td>@Html.TextBoxFor(x => Model.eAddress)</td>
+            </tr>
+
+            <tr><td></td><td><button>Add New Data</button></td></tr>
+        </table>    
+    }
+</fieldset>

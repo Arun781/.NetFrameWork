@@ -1,0 +1,24 @@
+﻿@model WebApp14thJulyInsertDeletEdit.Models.Movie_Detail
+@{
+    ViewBag.Title = "Remove";
+}
+<h2>Remove</h2>
+<fieldset>
+    <legend>Are you sure want to delete Data Yes/No </legend>
+    @using (@Html.BeginForm())
+    {
+        <div>@Html.HiddenFor(m => m.Slno)</div>
+        <div>@Html.DisplayFor(x => x.Movie_Name)</div>
+        <div>@Html.DisplayFor(x => x.Hero_Name)</div>
+        <div>@Html.DisplayFor(x => x.Location_Name)</div>
+        <div>@Html.DisplayFor(x => x.Ticket_price)</div>
+        <div>@Html.DisplayFor(x => x.collections)</div>
+
+        <div><button>Delete </button></div>
+    }
+</fieldset>
+
+        <div>@Html.ActionLink("Back to Home Page ", "Index", "Default")</div>
+
+
+

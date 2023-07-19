@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Personal_DetailsModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Personal_Bank_Details">
+          <Key>
+            <PropertyRef Name="pId" />
+          </Key>
+          <Property Name="pId" Type="int" Nullable="false" />
+          <Property Name="Customar_Name" Type="varchar" MaxLength="50" />
+          <Property Name="Customar_Acc" Type="bigint" />
+          <Property Name="Customar_Addar_Num" Type="bigint" />
+          <Property Name="Customar_Village" Type="varchar" MaxLength="50" />
+          <Property Name="Customar_Father_Name" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityContainer Name="Personal_DetailsModelStoreContainer">
+          <EntitySet Name="Personal_Bank_Details" EntityType="Self.Personal_Bank_Details" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Personal_DetailsModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Personal_Bank_Details">
+          <Key>
+            <PropertyRef Name="pId" />
+          </Key>
+          <Property Name="pId" Type="Int32" Nullable="false" />
+          <Property Name="Customar_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Customar_Acc" Type="Int64" />
+          <Property Name="Customar_Addar_Num" Type="Int64" />
+          <Property Name="Customar_Village" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Customar_Father_Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="Personal_DetailsEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Personal_Bank_Details" EntityType="Self.Personal_Bank_Details" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Personal_DetailsModelStoreContainer" CdmEntityContainer="Personal_DetailsEntities">
+          <EntitySetMapping Name="Personal_Bank_Details">
+            <EntityTypeMapping TypeName="Personal_DetailsModel.Personal_Bank_Details">
+              <MappingFragment StoreEntitySet="Personal_Bank_Details">
+                <ScalarProperty Name="pId" ColumnName="pId" />
+                <ScalarProperty Name="Customar_Name" ColumnName="Customar_Name" />
+                <ScalarProperty Name="Customar_Acc" ColumnName="Customar_Acc" />
+                <ScalarProperty Name="Customar_Addar_Num" ColumnName="Customar_Addar_Num" />
+                <ScalarProperty Name="Customar_Village" ColumnName="Customar_Village" />
+                <ScalarProperty Name="Customar_Father_Name" ColumnName="Customar_Father_Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

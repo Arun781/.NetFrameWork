@@ -1,0 +1,19 @@
+﻿@model ManualWorksOnMVC19thJuly.Models.Personal_Bank_Details
+@{
+    ViewBag.Title = "Remove";
+}
+
+<h2>Remove</h2>
+@using (Html.BeginForm())
+            {
+                <div>@Html.HiddenFor(a => a.pId)</div>
+                <div>@Html.DisplayFor(a => a.Customar_Name)</div>
+                <div>@Html.DisplayFor(a => a.Customar_Father_Name)</div>
+                <div>@Html.DisplayFor(a => a.Customar_Acc)</div>
+                <div>@Html.DisplayFor(a => a.Customar_Village)</div>
+                <div>@Html.DisplayFor(a => a.Customar_Addar_Num)</div>
+
+                <div><button>Delete</button></div>
+            }
+
+@Html.ActionLink("Back To Home","Index")

@@ -1,0 +1,25 @@
+﻿@model List<Search13thJuly.Models.Employee>
+    @{ 
+    ViewBag.Title = "Index";
+}
+<div style="background-color:aqua">
+    <h2>Home Index</h2>
+    @Html.ActionLink("Create New Row", "Insert", "Home")
+    <br />
+    <table border="1">
+        <tr><th>eId</th><th>eName</th><th>eAddress</th><th>eSalary</th></tr>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(x => item.eId)</td>
+                <td>@Html.DisplayFor(x => item.eName)</td>
+                <td>@Html.DisplayFor(x => item.eAddress)</td>
+                <td>@Html.DisplayFor(a => item.eSalary)</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        }
+
+    </table>
+</div>

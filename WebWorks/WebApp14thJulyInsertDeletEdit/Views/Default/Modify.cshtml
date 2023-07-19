@@ -1,0 +1,21 @@
+﻿@model WebApp14thJulyInsertDeletEdit.Models.Movie_Detail
+@{
+    ViewBag.Title = "Modify";
+ }
+<h2>Modify</h2>
+<fieldset>
+    <legend> Want Edit Column Data</legend>
+    @using (Html.BeginForm())
+     {
+        <div>@Html.HiddenFor(a => a.Slno)</div>
+        <div>@Html.DisplayNameFor(a => a.Movie_Name)@Html.EditorFor(a=>a.Movie_Name)</div>
+        <div>@Html.DisplayNameFor(a => a.Hero_Name)@Html.EditorFor(a => a.Hero_Name)</div>
+        <div>@Html.DisplayNameFor(a => a.Location_Name)@Html.EditorFor(a => a.Location_Name)</div>
+        <div>@Html.DisplayNameFor(a => a.Ticket_price)@Html.EditorFor(a => a.Ticket_price)</div>
+        <div>@Html.DisplayNameFor(a => a.collections)@Html.EditorFor(a => a.collections)</div>
+
+        <div> <button>Chnage Data</button> </div>
+     }
+</fieldset>
+<div>@Html.ActionLink("Back to Home", "Index")</div>
+<div>@Html.ActionLink("Want To Delete", "Remove","Default")</div>

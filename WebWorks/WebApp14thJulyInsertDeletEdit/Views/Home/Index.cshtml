@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Home Index</h2>
+@using (Html.BeginForm("Check", "Home", FormMethod.Post))
+{
+    <table style="color:blueviolet;font-size:30px">
+        <tr>
+            <td>@Html.Label("Enter SlNO")</td>
+            <td>
+                @Html.TextBox("SlNO")
+        </td>
+    </tr>
+    <tr><td></td><td><button>Search</button></td></tr>
+</table>
+}
+
+

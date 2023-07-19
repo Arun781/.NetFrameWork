@@ -1,0 +1,27 @@
+﻿@model ManualWorksOnMVC19thJuly.Models.Personal_Bank_Details
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <div>@Html.HiddenFor(a => a.pId)</div>
+    <div>@Html.DisplayNameFor(a => a.Customar_Name):-</div>
+    <div>@Html.DisplayFor(a => a.Customar_Name)</div>
+    <h4>_______________________________________________</h4>
+    <div>@Html.DisplayNameFor(a => a.Customar_Father_Name):-</div>
+    <div>@Html.DisplayFor(a => a.Customar_Father_Name)</div>
+    <h4>_______________________________________________</h4>
+    <div>@Html.DisplayNameFor(a => a.Customar_Addar_Num):-</div>
+    <div>@Html.DisplayFor(a => a.Customar_Addar_Num)</div>
+    <h4>_______________________________________________</h4>
+    <div>@Html.DisplayNameFor(a => a.Customar_Village):-</div>
+    <div>@Html.DisplayFor(a => a.Customar_Village)</div>
+    <h4>_______________________________________________</h4>
+    <div>@Html.DisplayNameFor(a => a.Customar_Acc):-</div>
+    <div>@Html.DisplayFor(a => a.Customar_Acc)</div>
+    <h4>_______________________________________________</h4>
+</div>
+
+@Html.ActionLink("Back to home","Index")

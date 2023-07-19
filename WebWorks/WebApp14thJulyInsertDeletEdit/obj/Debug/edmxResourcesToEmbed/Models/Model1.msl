@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="WebApplicationModelStoreContainer" CdmEntityContainer="WebApplicationEntities">
+    <EntitySetMapping Name="Movie_Detail">
+      <EntityTypeMapping TypeName="WebApplicationModel.Movie_Detail">
+        <MappingFragment StoreEntitySet="Movie_Detail">
+          <ScalarProperty Name="Slno" ColumnName="Slno" />
+          <ScalarProperty Name="Movie_Name" ColumnName="Movie_Name" />
+          <ScalarProperty Name="Hero_Name" ColumnName="Hero_Name" />
+          <ScalarProperty Name="Ticket_price" ColumnName="Ticket_price" />
+          <ScalarProperty Name="Location_Name" ColumnName="Location_Name" />
+          <ScalarProperty Name="collections" ColumnName="collections" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

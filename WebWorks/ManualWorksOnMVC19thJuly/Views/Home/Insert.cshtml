@@ -1,0 +1,40 @@
+﻿@model ManualWorksOnMVC19thJuly.Models.Personal_Bank_Details
+    ViewBag.Title = "Insert";
+}
+
+<h2>Insert values Into Personal_DB</h2>
+<fieldset style="color:blueviolet">
+    <legend>Insert New Data</legend>
+    @using (Html.BeginForm("Insert", "Home", FormMethod.Post))
+     {
+                <table>
+                    <tr>
+                        <td>@Html.DisplayNameFor(x => Model.pId)</td>
+                        <td>@Html.TextBoxFor(x => x.pId)</td>
+                    </tr>
+
+                    <tr>
+                        <td>@Html.DisplayNameFor(x => Model.Customar_Name)</td>
+                        <td>@Html.TextBoxFor(x => x.Customar_Name)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayNameFor(x => Model.Customar_Father_Name)</td>
+                        <td>@Html.TextBoxFor(x => x.Customar_Father_Name)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayNameFor(x => Model.Customar_Acc)</td>
+                        <td>@Html.TextBoxFor(x => x.Customar_Acc)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayNameFor(x => Model.Customar_Village)</td>
+                        <td>@Html.TextBoxFor(x => x.Customar_Village)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayNameFor(x => Model.Customar_Addar_Num)</td>
+                        <td>@Html.TextBoxFor(x => x.Customar_Addar_Num)</td>
+                    </tr>
+                    <tr><td></td><td><button>Add New Data</button></td></tr>
+                </table>
+     }
+</fieldset>
+

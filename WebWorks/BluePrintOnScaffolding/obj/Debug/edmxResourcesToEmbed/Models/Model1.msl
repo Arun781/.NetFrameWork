@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Personal_DetailsModelStoreContainer" CdmEntityContainer="Personal_DetailsEntities">
+    <EntitySetMapping Name="Personal_Bank_Details">
+      <EntityTypeMapping TypeName="Personal_DetailsModel.Personal_Bank_Details">
+        <MappingFragment StoreEntitySet="Personal_Bank_Details">
+          <ScalarProperty Name="pId" ColumnName="pId" />
+          <ScalarProperty Name="Customar_Name" ColumnName="Customar_Name" />
+          <ScalarProperty Name="Customar_Acc" ColumnName="Customar_Acc" />
+          <ScalarProperty Name="Customar_Addar_Num" ColumnName="Customar_Addar_Num" />
+          <ScalarProperty Name="Customar_Village" ColumnName="Customar_Village" />
+          <ScalarProperty Name="Customar_Father_Name" ColumnName="Customar_Father_Name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

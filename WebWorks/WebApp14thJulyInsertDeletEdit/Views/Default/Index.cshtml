@@ -1,0 +1,38 @@
+﻿@model List<WebApp14thJulyInsertDeletEdit.Models.Movie_Detail>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Default Index</h2>
+@Html.ActionLink("Insert Data", "Insert", FormMethod.Get,"Default")
+<br />
+<div style="background-color:aqua">
+    <table border="1">
+        <tr>
+            <th>Sl.No</th>
+            <th>Movie_Name</th>
+            <th>Hero_Name</th>
+            <th>Place_Name</th>
+            <th>Ticket_Price</th>
+            <th>Movie_Budget</th>
+            <th>Edit Column</th>
+            <th>Delete Column</th>
+            <th>Details Column</th>
+        </tr>
+
+        @foreach (var v in Model)
+        {
+         <tr>
+                <td>@Html.DisplayFor(x => v.Slno) </td>
+                <td>@Html.DisplayFor(x => v.Movie_Name) </td>
+                <td>@Html.DisplayFor(x => v.Hero_Name) </td>
+                <td>@Html.DisplayFor(x => v.Location_Name) </td>
+                <td>@Html.DisplayFor(x => v.Ticket_price) </td>
+                <td>@Html.DisplayFor(x => v.collections) </td>
+
+                <td>@Html.ActionLink("Update", "Modify", new {id = v.Slno})</td>
+                <td>@Html.ActionLink("Delete", "Remove", new { id = v.Slno })</td>
+                <td>@Html.ActionLink("Details","Details", new { id = v.Slno })</td>
+         </tr> 
+        }
+    </table>
+    </div>

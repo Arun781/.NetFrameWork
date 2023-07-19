@@ -1,0 +1,25 @@
+﻿@model WebApp14thJulyInsertDeletEdit.Models.Movie_Detail
+@{
+    ViewBag.Title = "Insert";
+}
+
+<h2>Insert values into Database</h2>
+<fieldset style="color:blueviolet">
+    <legend>Add new Data</legend>
+    @using (Html.BeginForm("Insert","Default",FormMethod.Post)) 
+    { 
+    <table>
+        <tr>
+        <td>@Html.DisplayNameFor(x => Model.Slno)</td>
+        <td>@Html.TextBoxFor(x => x.Slno)</td>
+        </tr>
+
+        <tr><td>@Html.DisplayNameFor(x => Model.Movie_Name)</td><td>@Html.TextBoxFor(x => x.Movie_Name)</td></tr>
+        <tr><td>@Html.DisplayNameFor(x => Model.Hero_Name)</td><td>@Html.TextBoxFor(x => x.Hero_Name)</td></tr>
+        <tr><td>@Html.DisplayNameFor(x => Model.Location_Name)</td><td>@Html.TextBoxFor(x => x.Location_Name)</td></tr>
+        <tr><td>@Html.DisplayNameFor(x => Model.Ticket_price)</td><td>@Html.TextBoxFor(x => x.Ticket_price)</td></tr>
+        <tr><td>@Html.DisplayNameFor(x => Model.collections)</td><td>@Html.TextBoxFor(x => x.collections)</td></tr>
+        <tr><td></td><td><button>Add New Data</button></td></tr>
+    </table>
+    }
+</fieldset>

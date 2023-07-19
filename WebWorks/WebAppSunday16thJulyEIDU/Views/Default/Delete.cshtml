@@ -1,0 +1,18 @@
+﻿@model WebAppSunday16thJulyEIDU.Models.Employee
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+<fieldset>
+    <legend>Are you sure want to delete Data Yes/No </legend>
+    @using (@Html.BeginForm())
+    {
+        <div>@Html.HiddenFor(x => x.eId)</div>
+        <div>@Html.DisplayFor(x => x.eName)</div>
+        <div>@Html.DisplayFor(x => x.eSalary)</div>
+        <div>@Html.DisplayFor(x => x.eAddress)</div>
+        <div><button>Delete </button></div>
+    }
+</fieldset>
+<div>@Html.ActionLink("Back to Home Page ", "Index", "Default")</div>

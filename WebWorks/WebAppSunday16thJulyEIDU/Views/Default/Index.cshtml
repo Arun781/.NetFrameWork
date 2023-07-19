@@ -1,0 +1,37 @@
+﻿@model List<WebAppSunday16thJulyEIDU.Models.Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Default Index</h2>
+@Html.ActionLink("Insert Data", "Insert", FormMethod.Get, "Default")
+<br />
+<div style="background-color:aqua">
+    <table border="1">
+        <tr>
+            <th>Sl.No</th>
+            <th>eName</th>
+            <th>eAddress</th>
+            <th>eSalary</th>
+            <th>Edit Column</th>
+            <th>Delete Column</th>
+            <th>Details Column</th>
+        </tr>
+        @foreach (var v in Model)
+        {
+            <tr>
+                <td>@Html.HiddenFor(x=>v.eId)</td>
+                <td>@Html.DisplayFor(x => v.eName) </td>
+                <td>@Html.DisplayFor(x => v.eAddress) </td>
+                <td>@Html.DisplayFor(x => v.eSalary) </td>
+               
+                <td>@Html.ActionLink("Edit", "Modify", new { SlNo = v.eId })</td>
+                <td>@Html.ActionLink("Delete", "Remove", new { SlNo = v.eId })</td>
+                <td>@Html.ActionLink("Details", "Show", new { SlNo = v.eId })</td>
+            </tr>
+
+
+        }
+    </table>
+</div>
+
