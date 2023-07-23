@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <a href="~/Views/Shared/_LayoutPage1.cshtml">~/Views/Shared/_LayoutPage1.cshtml</a>
+        <h4>
+            @Html.ActionLink("Contact page", "index", "Contact")
+            @Html.ActionLink("Default page", "index", "Personal_Bank_DetailsController")
+            @Html.ActionLink("Home page", "index", "Home")
+        </h4>
+        @RenderBody()
+    </div>
+</body>
+</html>

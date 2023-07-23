@@ -1,0 +1,7 @@
+E:\WorkForTat\.NetFrameWork\WebWorks\TechPro\bin\Debug\TechPro.exe.config
+E:\WorkForTat\.NetFrameWork\WebWorks\TechPro\bin\Debug\TechPro.exe
+E:\WorkForTat\.NetFrameWork\WebWorks\TechPro\bin\Debug\TechPro.pdb
+E:\WorkForTat\.NetFrameWork\WebWorks\TechPro\obj\Debug\TechPro.csproj.AssemblyReference.cache
+E:\WorkForTat\.NetFrameWork\WebWorks\TechPro\obj\Debug\TechPro.csproj.CoreCompileInputs.cache
+E:\WorkForTat\.NetFrameWork\WebWorks\TechPro\obj\Debug\TechPro.exe
+E:\WorkForTat\.NetFrameWork\WebWorks\TechPro\obj\Debug\TechPro.pdb

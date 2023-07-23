@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ScoffoladingEx22july.Models.Personal_Bank_Details>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Customar_Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Customar_Acc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Customar_Addar_Num)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Customar_Village)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Customar_Father_Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customar_Name)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customar_Acc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customar_Addar_Num)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customar_Village)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Customar_Father_Name)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.pId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.pId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.pId })
+        </td>
+    </tr>
+}
+
+</table>
